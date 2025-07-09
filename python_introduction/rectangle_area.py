@@ -1,6 +1,5 @@
 length = 10
 width = 5
+area = length * width
 
-Area = length * width
-
-print(f"calculated area is: {Area}")
+print(f"calculated area is: {area}")
