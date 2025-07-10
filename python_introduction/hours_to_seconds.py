@@ -1,5 +1,4 @@
 hours = 2
-conv = 60 * 60
-seconds = conv * hours
+seconds = 60 * 60 * hours
 
 print(f"{hours} hour(s) is {seconds} seconds.")
